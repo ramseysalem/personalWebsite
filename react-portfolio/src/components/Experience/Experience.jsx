@@ -1,15 +1,8 @@
 import React from "react";
 import styles from "./Experience.module.css";
 import skills from "../../data/skills";
-import history from "../../data/history.json";
-import { getImageUrl } from "../../utils";
-import htmlIcon from "/assets/skills/html.png";
-import cssIcon from "/assets/skills/css.png";
-import reactIcon from "/assets/skills/react.png";
-import nodeIcon from "/assets/skills/node.png";
-import graphqlIcon from "/assets/skills/graphql.png";
-import mongodbIcon from "/assets/skills/mongodb.png";
-import figmaIcon from "/assets/skills/figma.png";
+import history from "../../data/history";
+
 
 
 
@@ -36,7 +29,7 @@ export const Experience = () => {
             return (
               <li key={id} className={styles.historyItem}>
                 <img
-                  src={getImageUrl(historyItem.imageSrc)}
+                  src={historyItem.imageSrc}
                   alt={`${historyItem.organisation} Logo`}
                 />
                 <div className={styles.historyItemDetails}>
