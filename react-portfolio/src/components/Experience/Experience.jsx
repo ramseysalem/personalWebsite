@@ -4,9 +4,6 @@ import skills from "../../data/skills";
 import history from "../../data/history";
 
 
-
-
-
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
