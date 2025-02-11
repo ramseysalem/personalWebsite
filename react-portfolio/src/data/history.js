@@ -9,8 +9,9 @@ const history = [
     startDate: "June 2024",
     endDate: "August 2024",
     experiences: [
-      "Created and managed company database",
-      "Increased leads on new properties by 19%"
+      "Increased leads on new properties by 19% with email automation",
+      "Developed a PostgreSQL database to organize real estate leads.",
+      "Created a Python-based data pipeline using Pandas to clean data."
     ],
     imageSrc: deltaSolutionsIcon,
   },

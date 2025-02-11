@@ -1,7 +1,7 @@
 import React from "react";
 import styles from "./About.module.css";
 import { getImageUrl } from "../../utils";
-import aboutImage from "/assets/about/aboutMe1.png?url";
+import aboutImage from "/assets/about/ramseyCali.png?url";
 import cursorIcon from "/assets/about/cursorIcon.png?url";
 import serverIcon from "/assets/about/serverIcon.png?url";
 import uiIcon from "/assets/about/uiIcon.png?url";
