@@ -49,8 +49,6 @@ const projects = [
     source: "https://www.github.com"
   }
 
-
-
 ];
 
 export default projects;
