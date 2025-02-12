@@ -32,8 +32,9 @@ const history = [
     startDate: "Apr, 2020",
     endDate: "Present",
     experiences: [
-      "Managed the bag room and cleaned members clubs",
-      "Fostered relationships with existing and new members"
+    "Seasonal outdoor operations employee at Pleasant Valley Country Club in Sutton, MA.",
+    "I focus on providing exceptional customer service and building great relationships with the members.",
+    "Duties include valet service, club maintenance, and bag room management."
     ],
     imageSrc: pvIcon,
   }

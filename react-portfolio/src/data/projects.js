@@ -10,7 +10,6 @@ const projects = [
     imageSrc: projectAImage,
     description: "Three Trios Interactive Game, P v P or P v AI",
     skills: ["Java", "Github", "OOD", "IntelliJ"],
-    demo: "https://www.example.com",
     source: "https://www.github.com"
   },
   {
@@ -18,7 +17,6 @@ const projects = [
     imageSrc: projectBImage,
     description: "Full stack app with intergrated ML to create playlists based off of liked songs.",
     skills: ["Python", "SQL", "Javascript", "Flask"],
-    demo: "https://www.example.com",
     source: "https://www.github.com"
   },
   {
@@ -26,7 +24,6 @@ const projects = [
     imageSrc: projectCImage,
     description: "Long-Short Term Memory stock prediction Model",
     skills: ["Python", "SQL", "Streamlit"],
-    demo: "https://www.example.com",
     source: "https://www.github.com"
   },
 
@@ -35,7 +32,6 @@ const projects = [
     imageSrc: projectDImage,
     description: "Light em all game created in java, used kruskals algorithm to create unqiue board layouts",
     skills: ["Java", "OOD", "Eclipse"],
-    demo: "https://www.example.com",
     source: "https://www.github.com"
   }, 
   
@@ -45,7 +41,6 @@ const projects = [
     description: "Currently a work in progress, uses computer vision to help people affected by fire damages to claim" + 
     " items with more ease",
     skills: ["Python", "Javascript", "React", "SQL", "MongoDB"],
-    demo: "https://www.example.com",
     source: "https://www.github.com"
   }
 

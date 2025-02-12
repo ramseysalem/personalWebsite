@@ -14,7 +14,7 @@ export const About = () => {
       <div className={styles.content}>
         <img
           src={aboutImage}
-          alt="Me sitting with a laptop"
+          alt="Me in Dana Point, California"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
@@ -44,9 +44,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Outdoor Operations</h3>
               <p>
-              Outdoor operations employee of the pretegious Pleasant Valley Country Club, 
-              in Sutton MA. Cleaned members clubs, valet service, and worked in the cart barn. 
-              Fostered great relationships with the members. 
+              Outdoor operations employee of the prestigious Pleasant Valley Country Club, 
+              in Sutton MA. Cleaned members clubs, valet service, and worked in the cart barn.
               </p>
             </div>
           </li>
