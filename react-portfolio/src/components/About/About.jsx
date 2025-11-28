@@ -42,7 +42,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={uiIcon} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>Outdoor Operations</h3>
+              <h3>Software Engineering Co-op</h3>
               <p>
               Outdoor operations employee of the prestigious Pleasant Valley Country Club, 
               in Sutton MA. Cleaned members clubs, valet service, and worked in the cart barn.
