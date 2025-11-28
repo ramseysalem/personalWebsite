@@ -21,7 +21,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={cursorIcon} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Data Eningeering Intern</h3>
+              <h3>Data Engineering Intern</h3>
               <p>
               I was a data engineer intern for delta solutions, a startup in Central Massachusetts. 
               I managed databases, secured important information, optimized workflows, and automated 
