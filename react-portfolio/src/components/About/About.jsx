@@ -44,6 +44,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Software Engineering Co-op</h3>
               <p>
+              Verisk software engineering co-op, worked on internal tools for the AQA dev team. 
               Outdoor operations employee of the prestigious Pleasant Valley Country Club, 
               in Sutton MA. Cleaned members clubs, valet service, and worked in the cart barn.
               </p>
