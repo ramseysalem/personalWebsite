@@ -1,10 +1,19 @@
 const projectAImage = "/assets/projects/threeTrios.png";
 const projectBImage = "/assets/projects/spotify.png";
 const projectCImage = "/assets/projects/LSTMPicture.png";
-const projectDImage = "/assets/projects/LightEmAll.png";
+const projectDImage = "/assets/projects/selection.png";
 const projectEImage = "/assets/projects/fireClaim.png";
 
 const projects = [
+
+  {
+    title: "Selection",
+    imageSrc: projectDImage,
+    description: "Outfit selection application that helps users pick outfits based on weather and occasion.",
+    skills: ["Typescript", "Node.js", "Postgres", "AWS", "OpenAI API"],
+    source: "https://www.github.com"
+  }, 
+
   {
     title: "Three Trios Game",
     imageSrc: projectAImage,
@@ -26,14 +35,6 @@ const projects = [
     skills: ["Python", "SQL", "Streamlit"],
     source: "https://www.github.com"
   },
-
-  {
-    title: "Light Em' All",
-    imageSrc: projectDImage,
-    description: "Light em all game created in java, used kruskals algorithm to create unqiue board layouts",
-    skills: ["Java", "OOD", "Eclipse"],
-    source: "https://www.github.com"
-  }, 
   
   {
     title: "Fire Claim",
