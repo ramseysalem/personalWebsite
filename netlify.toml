@@ -1,3 +1,9 @@
+[build]
+	# Build from the react-portfolio subdirectory and publish the generated dist
+	base = "react-portfolio"
+	publish = "react-portfolio/dist"
+	command = "npm run build"
+
 [[redirects]]
 from = "/*"
 to = "/index.html"
