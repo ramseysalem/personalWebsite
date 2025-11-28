@@ -1,8 +1,22 @@
-import pvIcon from "/assets/history/pleasantValley.png";
+import pvIcon from "/assets/history/verisk.png";
 import deltaSolutionsIcon from "/assets/history/deltaSolutions.png"
 import knackIcon from "/assets/about/knack.png"
 
 const history = [
+
+    {
+    role: "Software Engineering",
+    organisation: "Verisk",
+    startDate: "July 2025",
+    endDate: "December 2025",
+    experiences: [
+    "Synthetic data research and developement for testing and modeling teams",
+    "Creation of internal tool to deidentify sensitive information in huge datasets",
+    "Automation of testing and data validation processes"
+    ],
+    imageSrc: pvIcon,
+  }, 
+
   {
     role: "Data Engineer",
     organisation: "Delta Solutions",
@@ -25,18 +39,6 @@ const history = [
       "Helped other students become tutors."
     ],
     imageSrc: knackIcon,
-  },
-  {
-    role: "Outdoor Operations",
-    organisation: "Pleasant Valley Country Club",
-    startDate: "Apr, 2020",
-    endDate: "Present",
-    experiences: [
-    "Seasonal outdoor operations employee at Pleasant Valley Country Club in Sutton, MA.",
-    "I focus on providing exceptional customer service and building great relationships with the members.",
-    "Duties include valet service, club maintenance, and bag room management."
-    ],
-    imageSrc: pvIcon,
   }
 ];
 
